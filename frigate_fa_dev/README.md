@@ -1,4 +1,4 @@
-# Home Assistant Add-on: Frigate (Full Access) Dev
+# Home Assistant Add-on: Frigate Dev
 
 Please reference the [release notes](https://github.com/blakeblackshear/frigate/releases) for breaking changes.
 
