@@ -1,11 +1,11 @@
 name: Frigate (Full Access) Dev
-version: 0.13.2
+version: dev-058e9a3
 panel_icon: "mdi:cctv"
 panel_title: Frigate Dev
 slug: frigate-fa-dev
 description: NVR with realtime local object detection for IP cameras
 url: "https://github.com/blakeblackshear/frigate"
-image: ghcr.io/blakeblackshear/frigate:dev
+image: ghcr.io/blakeblackshear/frigate
 startup: application
 boot: auto
 init: false
